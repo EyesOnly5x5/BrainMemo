@@ -19,34 +19,21 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfb1ea1-b31d-4b67-ba76-4df93fcb9f09" name="Default Changelist" comment="Paket Brainstorm nach Brainmemo">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/BrainMemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/BrainMemo.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/BrainMemo.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/BrainMemo.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/BrainMemo.app.unitTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BrainStorm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.androidTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.unitTest.iml" beforeDir="false" />
+    <list default="true" id="abfb1ea1-b31d-4b67-ba76-4df93fcb9f09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/BrainMemo.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/BrainMemo.app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/debug/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/debug/output-metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/app-release.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/release/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/output-metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/de/eyesonly5x5/brainstorm/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/de/eyesonly5x5/brainmemo/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainstorm/Globals.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainmemo/Globals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainstorm/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainmemo/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainstorm/MemoryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainmemo/MemoryActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainstorm/MischButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainmemo/MischButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainstorm/MyDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainmemo/MyDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_memory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_memory.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/de/eyesonly5x5/brainstorm/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/de/eyesonly5x5/brainmemo/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +132,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android-custom-view/opt/Android/sources/android-30/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BrainStorm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BrainPit" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -168,7 +155,7 @@
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="BrainMemo.app" />
+      <module name="BrainMemo.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -246,27 +233,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629726477167</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Sudo-Kuh erstellen STuffe 4, mit DialogFeld 0-9">
-      <created>1633620319485</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1633620319485</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Sudo-Kuh Fast Fertig.">
-      <created>1633700906105</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1633700906106</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Sudo-Kuh Fast Fertig, Save-Load">
-      <created>1633969913814</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1633969913814</updated>
     </task>
     <task id="LOCAL-00052" summary="Sudo-Kuh Fertig, incl. Save-Load">
       <created>1634044559909</created>
@@ -590,7 +556,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658052136273</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Paket Brainstorm nach Brainmemo">
+      <created>1658942329984</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1658942329984</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Paket Brainstorm nach Brainmemo">
+      <created>1658942361581</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1658942361581</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Paket Brainstorm nach Brainmemo">
+      <created>1658942478146</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1658942478146</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
