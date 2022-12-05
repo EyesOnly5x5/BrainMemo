@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
-    tools:context=".MemoryActivity">
+    tools:context="io.github.eyesonly5x5.MemoryActivity">
 
     <TextView
         android:id="@+id/Kopf"
@@ -366,7 +366,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView"
-        android:name="de.eyesonly5x5.brainmemo.MischButton"
+        android:name="io.github.eyesonly5x5.MischButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/butty"
